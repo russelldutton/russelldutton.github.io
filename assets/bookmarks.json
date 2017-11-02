@@ -31,16 +31,20 @@
       ]
     },
     {
-      "name": "Communication",
-      "icon": "fa-comments",
-      "links" : [
+      "name": "Misc Dev",
+      "icon": "",
+      "links": [
         {
-          "name": "Whatsapp",
-          "link": "https://web.whatsapp.com"
+          "name": "Github",
+          "link": "https://github.com"
         },
         {
-          "name": "Gmail",
-          "link": "https://mail.google.com/mail/u/0/#inbox"
+          "name": "Github pages demo",
+          "link": "https://russelldutton.github.io"
+        },
+        {
+          "name": "Arch Wiki",
+          "link": "https://www.archlinux.org/"
         }
       ]
     },
@@ -111,6 +115,20 @@
         {
           "name": "Tuks",
           "link": "http://www.up.ac.za"
+        }
+      ]
+    },
+    {
+      "name": "Communication",
+      "icon": "fa-comments",
+      "links" : [
+        {
+          "name": "Whatsapp",
+          "link": "https://web.whatsapp.com"
+        },
+        {
+          "name": "Gmail",
+          "link": "https://mail.google.com/mail/u/0/#inbox"
         }
       ]
     },
