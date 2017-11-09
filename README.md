@@ -15,7 +15,7 @@ The files are a bit messy; still working on learning to minify and browserify th
 - Added fade transition effects when the logos for the search bars are changed.
 
 ##### v1.1
-- Changed the way bookmarks are retireved. They are now fetched from a json file (in the assets folder), and editing the file
+- Changed the way bookmarks are retrieved. They are now fetched from a json file (in the assets folder), and editing the file
 will reflect changes on the page.
 
 ##### v1.0
