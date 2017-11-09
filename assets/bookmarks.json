@@ -35,10 +35,6 @@
       "icon": "",
       "links": [
         {
-          "name": "Github",
-          "link": "https://github.com"
-        },
-        {
           "name": "Github pages demo",
           "link": "https://russelldutton.github.io"
         },
@@ -61,7 +57,7 @@
           "link": "http://fontawesome.io/"
         },
         {
-          "name": "Angular 4",
+          "name": "Angular 2",
           "link": "https://angular.io/docs"
         },
         {
@@ -78,10 +74,6 @@
       "name": "Music",
       "icon": "fa-headphones",
       "links": [
-        {
-          "name": "Soundcloud",
-          "link": "https://soundcloud.com/stream"
-        },
         {
           "name": "Mellow Mix",
           "link": "https://soundcloud.com/russell9704/sets/melodic-and-relaxing"
@@ -119,20 +111,6 @@
       ]
     },
     {
-      "name": "Communication",
-      "icon": "fa-comments",
-      "links" : [
-        {
-          "name": "Whatsapp",
-          "link": "https://web.whatsapp.com"
-        },
-        {
-          "name": "Gmail",
-          "link": "https://mail.google.com/mail/u/0/#inbox"
-        }
-      ]
-    },
-    {
       "name": "Dota 2",
       "icon": "",
       "links": [
@@ -153,6 +131,33 @@
           "link": "http://blog.dota2.com/?l=english"
         }
       ]
+    }
+  ],
+  "icon-bar" : [
+    {
+      "name": "Reddit",
+      "link": "http://www.reddit.com",
+      "icon": "fa fa-reddit fa-2x"
+    },
+    {
+      "name": "Soundcloud",
+      "link": "https://soundcloud.com/stream",
+      "icon": "fa fa-soundcloud fa-2x"
+    },
+    {
+      "name": "WhatsApp",
+      "link": "https://web.whatsapp.com",
+      "icon": "fa fa-whatsapp fa-2x"
+    },
+    {
+      "name": "Gmail",
+      "link": "https://mail.google.com/mail/u/0/#inbox",
+      "icon": "fa fa-envelope fa-2x"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com",
+      "icon": "fa fa-github fa-2x"
     }
   ]
 }
