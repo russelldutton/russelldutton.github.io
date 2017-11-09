@@ -8,7 +8,10 @@ I took inspiration from the people over at [r/startpages](https://www.reddit.com
 The files are a bit messy; still working on learning to minify and browserify them.
 
 ### Version history:
-##### v1.2 (Current)
+##### v1.3 (Current)
+- Added new icon bar. Various links to websites are now displayed in a row as their logos
+
+##### v1.2
 - Added fade transition effects when the logos for the search bars are changed.
 
 ##### v1.1
