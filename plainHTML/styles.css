@@ -1,0 +1,148 @@
+/* Body style */
+
+body {
+  margin-top: 1%;
+   margin-right: 20%;
+  margin-left: 20%;
+  background-image: url("./bg_blur.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+/*hr {
+  width: 75%;
+}*/
+
+/* END Body Style */
+
+/* Searchbars css */
+.content {
+  margin-top: 2.5%;
+  /*margin-left: 20%;
+  margin-right: 20%;*/
+}
+
+div.card {
+  height: 160px;
+  width: 160px;
+  border-radius: 0;
+  background-color: rgba(255, 255, 255, 0.2);
+  -webkit-transition: background-color 200ms ease-in;
+  transition: background-color 200ms ease-in;
+}
+
+div.card:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+form.search-form {
+  width: 100%;
+}
+
+input::-webkit-input-placeholder {
+  color: #888 !important;
+}
+
+input.search-bar {
+  width: 100%;
+  margin-top: 10px;
+  border-width: 2px;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
+  color: #444;
+  border-radius: 0px;
+  border-color: #676767;
+  background: transparent;
+}
+
+input.search-bar:focus{
+  background: transparent;
+  color: #444;
+  border-color: #555;
+  box-shadow: 0px 8px 2px -2px rgba(5, 5, 5, 0.2);
+}
+
+input.search-bar:hover{
+  background: transparent;
+  color: #444;
+  border-color: #555;
+  box-shadow: 0px 8px 2px -2px rgba(5, 5, 5, 0.2);
+}
+
+img {
+  opacity: 1;
+  transition: opacity 200ms ease-in-out;
+  position: absolute;
+}
+
+img.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+img.inactive {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* END Searchbox's CSS */
+
+/* Iconbar CSS */
+a.iconbar {
+  margin-left: 40px;
+  margin-right: 40px;
+  color: #444;
+  transition: color 200ms ease;
+}
+
+a.iconbar:hover {
+  color: #777;
+  text-decoration: none;
+}
+/* END Iconbar CSS */
+
+
+/* Bookmarks Cards CSS */
+div.card-body {
+  padding: 10px;
+}
+
+div.card {
+  border-radius: 0;
+  background-color: rgba(255, 255, 255, 0.2);
+  -webkit-transition: background-color 200ms ease-in;
+  transition: background-color 200ms ease-in;
+}
+
+div.card:hover {
+  background-color: rgba(255, 255, 255, 0.5)
+}
+
+hr {
+  margin: 8px;
+}
+
+span {
+  margin-bottom: 0;
+  text-align: center;
+}
+
+li a {
+  color: #444;
+}
+
+ul {
+  color: #444;
+  list-style: none;
+  text-align: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+li a:hover {
+  color: #444;
+  text-decoration: none;
+}
+/* END Bookmarks Cards CSS */

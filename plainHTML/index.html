@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Homepage</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="./styles.css" />
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/umd/popper.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
+</head>
+<body class="bg">
+
+  <!-- Searchboxes code starts here -->
+  <div class="row content">
+    <!-- This is where the image would have been displayed, but I've taken it out due to too much of a javascript dependency -->
+    <div class="col-md-3 image-preview">
+      <div class="card">
+        <a href="http://www.google.co.za"><img src="./google_logo.png" alt="img to be displayed here" width="160" height="160"></a>
+      </div>
+    </div>
+
+    <!-- Google searchbox -->
+    <div class="col-md-9">
+      <div class="container-fluid card search-bar" style="width: 100%">
+        <div>
+          <form method="get" action="http://www.google.co.za/search">
+            <div class="input-group search-bar">
+              <input type="text" name="q" class="form-control search-bar" autocomplete="off" autofocus="autofocus" placeholder="Google Search">
+            </div>
+          </form>
+        </div>
+
+    <!-- Youtube Searchbox -->
+        <div>
+          <form method="get" action="http://www.youtube.co.za/results">
+            <div class="input-group search-bar">
+              <input type="text" name="q" class="form-control search-bar" autocomplete="off" placeholder="Youtube Search">
+            </div>
+          </form>
+        </div>
+
+    <!-- IMDB Searchbox -->
+        <div>
+          <form method="get" action="http://www.imdb.com/find">
+            <div class="input-group search-bar">
+              <input type="text" name="q" class="form-control search-bar" autocomplete="off" placeholder="IMDB Search">
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END Searchboxes -->
+
+  <!-- Row of icons -->
+  <hr />
+  <div class="d-flex justify-content-center">
+    <a class="iconbar" href="http://www.reddit.com">
+      <i class="fa fa-reddit fa-2x"></i>
+    </a>
+    <a class="iconbar" href="https://soundcloud.com/stream">
+      <i class="fa fa-soundcloud fa-2x"></i>
+    </a>
+    <a class="iconbar" href="https://web.whatsapp.com">
+      <i class="fa fa-whatsapp fa-2x"></i>
+    </a>
+    <a class="iconbar" href="https://github.com">
+      <i class="fa fa-github fa-2x"></i>
+    </a>
+    <a class="iconbar" href="https://gitlab.com">
+      <i class="fa fa-gitlab fa-2x"></i>
+    </a>
+  </div>
+  <hr />
+  <!-- END Row of icons -->
+
+
+  <!-- Bookmarks cards -->
+  <div class="row">
+    <div class="card col-md-4">
+      <div class="card-body">
+        <span>
+          <h5>Reddit</h5>
+        </span>
+        <hr>
+        <ul class="card-body">
+          <li><a href="http://www.reddit.com/r/Dota2">r/Dota2</a></li>
+          <li><a href="http://www.reddit.com/r/startpages">r/startpages</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="card  col-md-4">
+      <div class="card-body">
+        <span>
+          <h5>Music</h5>
+        </span>
+        <hr>
+        <ul class="card-body">
+          <li><a href="https://soundcloud.com/russell9704/sets/melodic-and-relaxing">Mellow Mix</a></li>
+          <li><a href="https://www.youtube.com/user/MrSuicideSheep">MrSuicideSheep</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="card col-md-4">
+      <div class="card-body">
+        <span>
+          <h5>Web dev</h5>
+        </span>
+        <hr>
+        <ul class="card-body">
+          <li><a href="https://angular.io/docs">Angular 2+</a></li>
+          <li><a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/">Bootstrap</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
