@@ -7,6 +7,8 @@ I took inspiration from the people over at [r/startpages](https://www.reddit.com
 
 The files are a bit messy; still working on learning to minify and browserify them.
 
+To view a working demo of this project, click [here](https://russelldutton.github.io/).
+
 ### Version history:
 ##### v1.3 (Current)
 - Added new icon bar. Various links to websites are now displayed in a row as their logos
