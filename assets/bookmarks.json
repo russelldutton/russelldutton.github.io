@@ -89,28 +89,6 @@
       ]
     },
     {
-      "name": "UP",
-      "icon": "",
-      "links": [
-        {
-          "name": "CS dept",
-          "link": "http://www.cs.up.ac.za"
-        },
-        {
-          "name": "Blackboard",
-          "link": "http://clickup.up.ac.za"
-        },
-        {
-          "name": "Tuks",
-          "link": "http://www.up.ac.za"
-        },
-        {
-          "name": "UP Login",
-          "link": "https://www1.up.ac.za/wcportal/faces/student.jspx"
-        }
-      ]
-    },
-    {
       "name": "Dota 2",
       "icon": "",
       "links": [
