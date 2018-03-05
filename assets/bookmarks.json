@@ -13,20 +13,16 @@
           "link": "http://www.reddit.com/r/unixporn"
         },
         {
-          "name": "r/startpages",
-          "link": "http://www.reddit.com/r/startpages"
-        },
-        {
-          "name": "r/archlinux",
-          "link": "http://www.reddit.com/r/archlinux"
-        },
-        {
-          "name": "r/Wallpaper",
-          "link": "http://www.reddit.com/r/wallpaper"
+          "name": "r/TalesFromRetail",
+          "link": "http://www.reddit.com/r/talesfromretail"
         },
         {
           "name": "r/ProgrammerHumour",
           "link": "https://www.reddit.com/r/ProgrammerHumor"
+        },
+        {
+          "name": "Random Subreddit",
+          "link": "https://www.reddit.com/r/random"
         }
       ]
     },
@@ -57,7 +53,7 @@
           "link": "http://fontawesome.io/"
         },
         {
-          "name": "Angular 2",
+          "name": "Angular 2+",
           "link": "https://angular.io/docs"
         },
         {
@@ -107,6 +103,10 @@
         {
           "name": "Tuks",
           "link": "http://www.up.ac.za"
+        },
+        {
+          "name": "UP Login",
+          "link": "https://www1.up.ac.za/wcportal/faces/student.jspx"
         }
       ]
     },
@@ -131,33 +131,90 @@
           "link": "http://blog.dota2.com/?l=english"
         }
       ]
+    },
+    {
+      "name": "FinInfo",
+      "links": [
+        {
+          "name": "Standard Bank",
+          "link": "https://experience.standardbank.co.za/#/login"
+        },
+        {
+          "name": "Satrix",
+          "link": "https://www.satrixnow.co.za/"
+        },
+        {
+          "name": "Ice3x",
+          "link": "https://ice3x.co.za/"
+        }
+      ]
+    },
+    {
+      "name": "BT",
+      "links": [
+        {
+          "name": "Axxess",
+          "link": "https://www.axxess.co.za/hosting/linux-shared"
+        },
+        {
+          "name": "PhpMyAdmin",
+          "link": "http://localhost:8080/phpmyadmin"
+        },
+        {
+          "name": "Gitlab",
+          "link": "https://gitlab.com/users/sign_in"
+        },
+        {
+          "name": "Barktree",
+          "link": "https://barktree.co.za"
+        },
+        {
+          "name": "DevOps",
+          "link": "https://www.devops.barktree.co.za"
+        }
+      ]
     }
   ],
   "icon-bar" : [
     {
       "name": "Reddit",
       "link": "http://www.reddit.com",
-      "icon": "fa fa-reddit fa-2x"
+      "icon": "fab fa-reddit fa-2x"
     },
     {
       "name": "Soundcloud",
       "link": "https://soundcloud.com/stream",
-      "icon": "fa fa-soundcloud fa-2x"
+      "icon": "fab fa-soundcloud fa-2x"
     },
     {
       "name": "WhatsApp",
       "link": "https://web.whatsapp.com",
-      "icon": "fa fa-whatsapp fa-2x"
+      "icon": "fab fa-whatsapp fa-2x"
+    },
+    {
+      "name": "Youtube",
+      "link": "http://www.youtube.co.za",
+      "icon": "fab fa-youtube fa-2x"
     },
     {
       "name": "Gmail",
       "link": "https://mail.google.com/mail/u/0/#inbox",
-      "icon": "fa fa-envelope fa-2x"
+      "icon": "fas fa-envelope fa-2x"
     },
     {
       "name": "Github",
       "link": "https://github.com",
-      "icon": "fa fa-github fa-2x"
+      "icon": "fab fa-github fa-2x"
+    },
+    {
+      "name": "Trello",
+      "link": "https://trello.com",
+      "icon": "fab fa-trello fa-2x"
+    },
+    {
+      "name": "Google Drive",
+      "link": "https://drive.google.com/drive/my-drive",
+      "icon": "fab fa-google-drive fa-2x"
     }
   ]
 }

@@ -67,6 +67,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+fizzy-ui-utils@2.0.5
+MIT
+MIT
+
 @angular/core@4.4.6
 MIT
 MIT
@@ -75,7 +79,31 @@ MIT
 MIT
 MIT
 
+desandro-matches-selector@2.0.2
+MIT
+MIT
+
+outlayer@2.1.1
+MIT
+MIT
+
+masonry-layout@4.2.0
+MIT
+MIT
+
+angular2-masonry@0.4.0
+ISC
+ISC
+
+ev-emitter@1.1.1
+MIT
+MIT
+
 @angular/platform-browser@4.4.6
+MIT
+MIT
+
+get-size@2.0.2
 MIT
 MIT
 
