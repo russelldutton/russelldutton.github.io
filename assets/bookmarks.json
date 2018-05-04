@@ -36,7 +36,7 @@
         },
         {
           "name": "Arch Wiki",
-          "link": "https://www.archlinux.org/"
+          "link": "https://wiki.archlinux.org/"
         }
       ]
     },
@@ -50,7 +50,7 @@
         },
         {
           "name": "Font Awesome",
-          "link": "http://fontawesome.io/"
+          "link": "https://fontawesome.com/icons"
         },
         {
           "name": "Angular 2+",
@@ -89,6 +89,36 @@
       ]
     },
     {
+      "name": "UP",
+      "icon": "",
+      "links": [
+        {
+          "name": "CS dept",
+          "link": "http://www.cs.up.ac.za"
+        },
+        {
+          "name": "Blackboard",
+          "link": "http://clickup.up.ac.za"
+        },
+        {
+          "name": "Tuks",
+          "link": "http://www.up.ac.za"
+        },
+        {
+          "name": "UP Login",
+          "link": "https://www1.up.ac.za/wcportal/faces/student.jspx"
+        },
+        {
+        	"name": "Ebook Search",
+        	"link": "https://cse.google.com/cse/home?cx=00661023013169144559:a1-kkiboeco"
+        },
+        {
+        	"name": "Library Genises",
+        	"link": "https://libgen.pw"
+        }
+      ]
+    },
+    {
       "name": "Dota 2",
       "icon": "",
       "links": [
@@ -123,7 +153,7 @@
         },
         {
           "name": "Ice3x",
-          "link": "https://ice3x.co.za/"
+          "link": "https://ice3x.com/"
         }
       ]
     },
@@ -170,16 +200,6 @@
       "icon": "fab fa-whatsapp fa-2x"
     },
     {
-      "name": "Youtube",
-      "link": "http://www.youtube.co.za",
-      "icon": "fab fa-youtube fa-2x"
-    },
-    {
-      "name": "Gmail",
-      "link": "https://mail.google.com/mail/u/0/#inbox",
-      "icon": "fas fa-envelope fa-2x"
-    },
-    {
       "name": "Github",
       "link": "https://github.com",
       "icon": "fab fa-github fa-2x"
@@ -193,6 +213,16 @@
       "name": "Google Drive",
       "link": "https://drive.google.com/drive/my-drive",
       "icon": "fab fa-google-drive fa-2x"
+    },
+    {
+    	"name": "Slack",
+    	"link": "https://301redirection.slack.com/messages",
+    	"icon": "fab fa-slack-hash fa-2x"
+    },
+    {
+    	"name": "Google Calendar",
+    	"link": "https://calendar.google.com/calendar/b/1/r?tab=wc",
+    	"icon": "far fa-calendar-alt fa-2x"
     }
   ]
 }
