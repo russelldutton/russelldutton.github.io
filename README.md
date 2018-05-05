@@ -10,7 +10,14 @@ The files are a bit messy; still working on learning to minify and browserify th
 To view a working demo of this project, click [here](https://russelldutton.github.io/).
 
 ### Version history:
-##### v1.3 (Current)
+
+##### v1.4 (Current)
+
+- Removed the different search bars to only have a single Google search bar.
+- Icon bar has additional icons
+- Updated the background that is more consistent with darker colours to make styling overall easier to read
+
+##### v1.3
 - Added new icon bar. Various links to websites are now displayed in a row as their logos
 
 ##### v1.2
